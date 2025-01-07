@@ -160,4 +160,5 @@ cython_debug/
 #.idea/
 
 
-.venv/
+
+dev_py/.venv/
