@@ -161,4 +161,4 @@ cython_debug/
 
 
 
-dev_py/.venv/
+*/.venv/*
